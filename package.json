@@ -1,0 +1,16 @@
+{
+  "name": "jest-prototype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-jest": "^11.0.0",
+    "babel-polyfill": "^6.7.4",
+    "jest-cli": "^11.0.0"
+  }
+}
